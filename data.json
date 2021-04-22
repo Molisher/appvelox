@@ -1,0 +1,74 @@
+{
+  "record": [
+    {
+      "id": 1,
+      "date": "15.04.2021",
+      "time": "15:30",
+      "doctorName": "Малушко Т.Н.",
+      "doctorAvatar": "images/doctor.png",
+      "specialty": "Хирургия",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 2,
+      "date": "15.04.2021",
+      "time": "15:30",
+      "doctorName": "Харьков В. С.",
+      "doctorAvatar": "images/doctor2.png",
+      "specialty": "Терапевтическое отделение",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 3,
+      "date": "30.04.2021",
+      "time": "12:10",
+      "doctorName": "Малушко Т.Н.",
+      "doctorAvatar": "images/doctor.png",
+      "specialty": "Хирургия",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 4,
+      "date": "02.05.2021",
+      "time": "12:30",
+      "doctorName": "Харьков В. С.",
+      "doctorAvatar": "images/doctor2.png",
+      "specialty": "Терапевтическое отделение",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 5,
+      "date": "18.04.2021",
+      "time": "15:30",
+      "doctorName": "Харьков В. С.",
+      "doctorAvatar": "images/doctor2.png",
+      "specialty": "Терапевтическое отделение",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 6,
+      "date": "18.04.2021",
+      "time": "15:30",
+      "doctorName": "Харьков В. С.",
+      "doctorAvatar": "images/doctor2.png",
+      "specialty": "Терапевтическое отделение",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    },
+    {
+      "id": 7,
+      "date": "12.04.2021",
+      "time": "15:30",
+      "doctorName": "Харьков В. С.",
+      "doctorAvatar": "images/doctor2.png",
+      "specialty": "Терапевтическое отделение",
+      "hospital": "СПБ ГБУЗ 'Городская поликлиника №25',",
+      "hospitalAdress": "пр. Солидарности, д. 1, к. 1, лит. А"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/appvelox/static/js/main.df3d1c4b.chunk.js",
+    "main.js.map": "/appvelox/static/js/main.df3d1c4b.chunk.js.map",
+    "runtime-main.js": "/appvelox/static/js/runtime-main.3296d0e3.js",
+    "runtime-main.js.map": "/appvelox/static/js/runtime-main.3296d0e3.js.map",
+    "static/css/2.835acb34.chunk.css": "/appvelox/static/css/2.835acb34.chunk.css",
+    "static/js/2.c2b6977a.chunk.js": "/appvelox/static/js/2.c2b6977a.chunk.js",
+    "static/js/2.c2b6977a.chunk.js.map": "/appvelox/static/js/2.c2b6977a.chunk.js.map",
+    "index.html": "/appvelox/index.html",
+    "static/css/2.835acb34.chunk.css.map": "/appvelox/static/css/2.835acb34.chunk.css.map",
+    "static/js/2.c2b6977a.chunk.js.LICENSE.txt": "/appvelox/static/js/2.c2b6977a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3296d0e3.js",
+    "static/css/2.835acb34.chunk.css",
+    "static/js/2.c2b6977a.chunk.js",
+    "static/js/main.df3d1c4b.chunk.js"
+  ]
+}
